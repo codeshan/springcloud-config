@@ -1,4 +1,0 @@
-server:
-  port: 8001
-config:
-  info: "this is config dev enm, good for you"
