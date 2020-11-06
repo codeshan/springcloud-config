@@ -1,7 +1,7 @@
 system:
   version: 3.0
 config:
-  info: "this is config dev enm, go"
+  info: "do u know"
 server:
   port: 3355
 spring:
