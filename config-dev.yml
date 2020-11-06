@@ -2,12 +2,3 @@ system:
   version: 3.0
 config:
   info: "do u know"
-server:
-  port: 3355
-spring:
-  application:
-    name: config-client
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:7001/eureka/
